@@ -1,0 +1,28 @@
+{
+  "name": "xml2cml",
+  "version": "1.0.0",
+  "description": "A JavaScript module to convert between XML and CML (Customizable Markup Language).",
+  "main": "xml2cml.js",
+  "type": "module",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "xml",
+    "cml",
+    "converter",
+    "markup",
+    "customizable",
+    "xml2cml"
+  ],
+  "author": "Shanveer Singh",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shanveersingh-official/xml2cml"
+  },
+  "bugs": {
+    "url": "https://github.com/shanveersingh-official/xml2cml/issues"
+  },
+  "homepage": "https://github.com/shanveersingh-official/xml2cml#readme"
+}
